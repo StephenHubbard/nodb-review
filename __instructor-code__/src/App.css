@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.pokemon {
+  display: block;
+}
+
+header a {
+  text-decoration: none;
+}

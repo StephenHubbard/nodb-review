@@ -1,0 +1,16 @@
+.pokemon {
+    border: 2px solid black;
+    width: 250px;
+    margin: 40px;
+}
+
+button {
+    width: 50%;
+    height: 40px;
+    margin: 0;
+}
+
+hr {
+    margin: 0;
+}
+
